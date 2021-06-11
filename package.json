@@ -1,0 +1,36 @@
+{
+    "name": "dew-grey",
+    "displayName": "DEW-GREY",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "DEW",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dewanshDT/DEW-GREY"
+    },
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "DEW",
+        "dew",
+        "DEW-GREY",
+        "dew-grey",
+        "dew grey",
+        "DEW GREY"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DEW-GREY",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DEW-GREY-color-theme.json"
+            }
+        ]
+    }
+}
