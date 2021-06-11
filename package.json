@@ -4,6 +4,7 @@
     "description": "",
     "version": "0.1.0",
     "publisher": "DEW",
+    "icon": "avatar.jpg",
     "repository": {
         "type": "git",
         "url": "https://github.com/dewanshDT/DEW-GREY"
