@@ -99,6 +99,7 @@
     "list.focusBackground": "#EEFFFF20",
     "list.focusForeground": "#EEFFFF",
     "list.highlightForeground": "#6fffe9",
+    "terminal.background": "#181818",
     "terminal.ansiWhite": "#ffffff",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#82AAFF",
