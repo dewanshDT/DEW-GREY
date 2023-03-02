@@ -1,6 +1,6 @@
 {
   "name": "dew-grey",
-  "displayName": "DEW-GREY",
+  "displayName": "DEW-GRAY",
   "description": "",
   "version": "2.0.1",
   "publisher": "DEW",
@@ -20,20 +20,20 @@
     "dark theme",
     "DEW",
     "dew",
-    "DEW-GREY",
-    "dew-grey",
-    "dew grey",
-    "DEW GREY"
+    "DEW-GRAY",
+    "dew-gray",
+    "dew gray",
+    "DEW GRAY"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "DEW-GREY",
+        "label": "DEW-GRAY",
         "uiTheme": "vs-dark",
         "path": "./themes/DEW-GREY-color-theme.json"
       },
       {
-        "label": "DEW-GREY-orange",
+        "label": "DEW-GRAY-orange",
         "uiTheme": "vs-dark",
         "path": "./themes/DEW-GREY-orange-color-theme.json"
       }
